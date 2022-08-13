@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JDVers3
 - 👀 I’m interested in SWE
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with alot ou people on here during my journey
 - 📫 How to reach me ...
 
 <!---
